@@ -1,0 +1,9 @@
+[http]
+[https]
+[url "https://"]
+[url "https://"]
+	insteadOf = git://
+[http]
+[https]
+[http]
+	proxy = 150.35.33.63:3128
